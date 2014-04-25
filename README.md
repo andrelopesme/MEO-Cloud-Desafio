@@ -29,3 +29,7 @@ Irá aparecer a informação no ecrã de quantas imagens foram adicionadas e ser
 
 Observações:
 Não existe mecanismo de reset à base de dados, para limpar a memória das fotografias, simplesmente apagar o desafio.db
+
+---
+Personal Blog
+http://andrelopes.me
